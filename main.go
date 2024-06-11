@@ -7,7 +7,7 @@ import (
     "github.com/mohan2020coder/karel-robot/actions"
     "github.com/mohan2020coder/karel-robot/gui"
 )
-//this is the main
+//this is the mai master
 func main() {
     world := NewWorld(10, 10) // Create a world with 10 rows and 10 columns
     world.PutBeeper(Position{X: 5, Y: 3}) // Place a beeper at position (5, 3)
