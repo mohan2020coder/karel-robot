@@ -3,7 +3,7 @@ package main
 import (
     "fyne.io/fyne/v2"
     "fyne.io/fyne/v2/app"
-    "github.com/mohan2020coder/karel_robot/world"
+    "github.com/mohan2020coder/karel-robot/world"
     "github.com/mohan2020coder/karel-robot/actions"
     "github.com/mohan2020coder/karel-robot/gui"
 )
